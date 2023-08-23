@@ -1,4 +1,4 @@
-# Start building your own website number 12
+# Start building your own website number 1
 This is a repository that I created to help others develop their websites in React.
 # tru guyssss
 
